@@ -24,7 +24,7 @@ Kim Pope님의 책 [셰이더프로그래밍 입문] 책을 보며 공부했던 
 
 기본적인 빨강색 셰이더입니다
 
-****![img](https://github.com/wjdgh283/ShaderProgramming/blob/master/img%20rcs/2.JPG?raw=true)
+![img](https://github.com/wjdgh283/ShaderProgramming/blob/master/img%20rcs/2.JPG?raw=true)
 
 <br><br><br>
 
